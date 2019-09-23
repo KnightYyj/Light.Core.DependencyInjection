@@ -13,7 +13,7 @@ namespace TESTWebApi.Controllers
     public class ValuesController : Controller
     {
         [Autowired]
-        public UserService uService;
+        public UserService uService;//特性注入
 
         public ValuesController(LightAutowiredService autowiredService)
         {

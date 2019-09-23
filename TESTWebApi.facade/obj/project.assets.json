@@ -579,7 +579,7 @@
       ]
     },
     "Microsoft.NETCore.Platforms/2.0.0": {
-      "sha512": "CCf4NjmDOoise7FAij2VPuHIgKKsu696vkTwhOkPVQfLsTmB2WLFfQ4yeO5Udtk8FD636UBMx6Y9eovzJKT76A==",
+      "sha512": "VdLJOCXhZaEMY7Hm2GKiULmn7IEPFE4XC5LPSfBVCUIA8YLZVh846gtfBJalsPQF2PlzdD7ecX7DZEulJ402ZQ==",
       "type": "package",
       "path": "microsoft.netcore.platforms/2.0.0",
       "files": [
@@ -736,23 +736,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mi\\.nuget\\packages\\": {},
+    "C:\\Users\\79978\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mi\\Desktop\\Sw\\Light.Core.DependencyInjection\\TESTWebApi.facade\\TESTWebApi.facade.csproj",
+      "projectUniqueName": "D:\\NodeProject\\netCore\\github\\Light.Core.DependencyInjection\\TESTWebApi.facade\\TESTWebApi.facade.csproj",
       "projectName": "TESTWebApi.facade",
-      "projectPath": "C:\\Users\\Mi\\Desktop\\Sw\\Light.Core.DependencyInjection\\TESTWebApi.facade\\TESTWebApi.facade.csproj",
-      "packagesPath": "C:\\Users\\Mi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mi\\Desktop\\Sw\\Light.Core.DependencyInjection\\TESTWebApi.facade\\obj\\",
+      "projectPath": "D:\\NodeProject\\netCore\\github\\Light.Core.DependencyInjection\\TESTWebApi.facade\\TESTWebApi.facade.csproj",
+      "packagesPath": "C:\\Users\\79978\\.nuget\\packages\\",
+      "outputPath": "D:\\NodeProject\\netCore\\github\\Light.Core.DependencyInjection\\TESTWebApi.facade\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Mi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\79978\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -765,8 +765,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\Mi\\Desktop\\Sw\\Light.Core.DependencyInjection\\Light.Core.DependencyInjection\\Light.Core.DependencyInjection.csproj": {
-              "projectPath": "C:\\Users\\Mi\\Desktop\\Sw\\Light.Core.DependencyInjection\\Light.Core.DependencyInjection\\Light.Core.DependencyInjection.csproj"
+            "D:\\NodeProject\\netCore\\github\\Light.Core.DependencyInjection\\Light.Core.DependencyInjection\\Light.Core.DependencyInjection.csproj": {
+              "projectPath": "D:\\NodeProject\\netCore\\github\\Light.Core.DependencyInjection\\Light.Core.DependencyInjection\\Light.Core.DependencyInjection.csproj"
             }
           }
         }

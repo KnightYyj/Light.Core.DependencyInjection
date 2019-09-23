@@ -27,7 +27,7 @@ namespace TESTWebApi
             services.AddMvc();
             //注册应用服务
            
-            services.AddAppServices("TESTWebApi.facade");
+            services.AddAppServices("TESTWebApi.facade");//注入类库
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
